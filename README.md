@@ -9,5 +9,5 @@ This is my Professional Resumé.
 3. To see your published site, under "GitHub Pages", click Visit site
 4. Your GitHub Pages site is built and deployed with a GitHub Actions workflow.
 
-Site is live on: /
+Site is live on: https://narendrababu9.github.io/Myportfolio/
 # Myportfolio
