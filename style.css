@@ -321,15 +321,16 @@ section {
     margin-left: 2%;
      
 }
+
 /* Media query for mobile devices (max-width: 600px) */
 @media screen and (max-width: 600px) {
     .section__text__p11 {
-        padding-left: 5%;
+        padding-left: 50%;
         font-size: 1rem;
     }
     
     .title1 {
-        padding-left: 5%;
+        padding-left: 50%;
         font-size: 2rem;
     }
 }
@@ -337,15 +338,16 @@ section {
 /* Media query for laptop devices (min-width: 1024px) */
 @media screen and (min-width: 1024px) {
     .section__text__p11 {
-        padding-left: 47%;
-        font-size: 1.5rem;
+        padding-left: 49%;
+        font-size: 1.3rem;
     }
     
     .title1 {
-        padding-left: 45%;
+        padding-left: 46%;
         font-size: 3.5rem;
     }
 }
+
 
 .text-container {
     text-align: justify;
